@@ -3,7 +3,7 @@
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Yii2 ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel)
 
 ## Table of Contents
 
