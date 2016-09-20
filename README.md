@@ -10,7 +10,7 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 - [Essentials](#essentials)
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
-- [Popular Packages](#popular-packages)
+- [Popular Packages](#popular-packages)p
 - [Development Setup](#development-setup)
 - [Application Hosting](#application-hosting)
 - [Application Deployment](#application-deployment)
@@ -46,11 +46,11 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 
 ## Popular Packages
 
-> This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
+> This is a list of well-documented, tested packages that are frequently used in Yii projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
 
 ##### Search
 
-* [Zend Lucene advanced search component for Yii2](https://github.com/himiklab/yii2-search-component-v2) - Integrates the Algolia Search API to the Laravel Eloquent ORM
+* [Zend Lucene advanced search component for Yii2](https://github.com/himiklab/yii2-search-component-v2) 
 * [Yii2 Elastic Search](http://www.yiiframework.com/doc-2.0/ext-elasticsearch-index.html) - Elasticsearch Query and ActiveRecord for Yii 2
 
 
@@ -87,14 +87,6 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 * [Yii2 Basic Application Dockerized](https://github.com/schmunk42/docker-yii2-app-basic)
 
 
-## Application Deployment
-
-* [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
- * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
-* [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
-
-
-
 ## Starter Projects
 
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit)
@@ -102,7 +94,7 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 
 ## Codebases for Reference
 
-* [92Five](https://github.com/chintanbanugaria/92five) - Project management application
+* [manageyourteam](http://www.manageyourteam.net/) - Project management application
 
 ## Content Management Systems
 
