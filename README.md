@@ -10,7 +10,7 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 - [Essentials](#essentials)
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
-- [Popular Packages](#popular-packages)p
+- [Popular Packages](#popular-packages)
 - [Development Setup](#development-setup)
 - [Application Hosting](#application-hosting)
 - [Application Deployment](#application-deployment)
@@ -54,6 +54,10 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 * [Yii2 Elastic Search](http://www.yiiframework.com/doc-2.0/ext-elasticsearch-index.html) - Elasticsearch Query and ActiveRecord for Yii 2
 
 
+#### User Management
+
+* [Flexible user registration and authentication module for Yii2](https://github.com/dektrium/yii2-user)
+
 ##### APIs
 
 * [ReSTFUL](https://github.com/deerawan/yii2-advanced-api) - Yii2 advanced template with RESTful API setup
@@ -76,7 +80,7 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 * [Yii Algolia](https://github.com/lordthorzonus/yii2-algolia) - Algolia API bridge
 * [Yii Analytics](https://github.com/cybercog/yii2-google-analytics) - add Universal Analytics tracking in your Yii2 application
 * [Yii Social](https://github.com/kartik-v/yii2-social) - A Yii2 module for embedding social plugins and widgets
-
+* [Yii-elfinder](https://github.com/MihailDev/yii2-elfinder)
 
 
 ## Development Setup
@@ -86,11 +90,15 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 * [Yii2 Dockerized](https://github.com/codemix/yii2-dockerized)
 * [Yii2 Basic Application Dockerized](https://github.com/schmunk42/docker-yii2-app-basic)
 
+## Books
+* [Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)
 
 ## Starter Projects
 
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit)
 * [Yii2 File storage and upload kit](https://github.com/trntv/yii2-file-kit)
+* [Yii2-Start demo](https://github.com/vova07/yii2-start)
+* [Auth manager for Yii2 (RBAC Manager)](https://github.com/mdmsoft/yii2-admin)
 
 ## Codebases for Reference
 
