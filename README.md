@@ -102,6 +102,9 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 * [Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)
 * [The Definitive Guide to Yii 2.0] (https://github.com/yiisoft/yii2/blob/master/docs/guide/README.md) 
 
+## Articles, Tutorials, Blogs, etc.
+* [Yii 2.0 Articles](http://yiifeed.com/)
+
 ## Starter Projects
 
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit)
