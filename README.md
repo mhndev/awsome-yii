@@ -75,12 +75,20 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 * [Paypal](https://github.com/marciocamello/yii2-paypal) - PayPal payment extension for the Yii2
 
 
+##### Generators
+
+* [Yii 2 Gii Extension] (https://github.com/yiisoft/yii2-gii) - This extension provides a Web-based code generator, called Gii, for Yii framework 2.0 applications.
+* [Yii 2 Framework Code Generator Gii on Steroids] (https://github.com/schmunk42/yii2-giiant) - Giiant is an extended code-generator for models and CRUDs, based upon Gii (Yii 2.0 Framework).
+* [Yii 2 Migration Generator] (https://github.com/michael-vostrikov/yii2-migration-generator) - Migration generator for Gii. Generates migration file for the specified database table.
+
 ##### Third-party Service Integration
 
 * [Yii Algolia](https://github.com/lordthorzonus/yii2-algolia) - Algolia API bridge
 * [Yii Analytics](https://github.com/cybercog/yii2-google-analytics) - add Universal Analytics tracking in your Yii2 application
 * [Yii Social](https://github.com/kartik-v/yii2-social) - A Yii2 module for embedding social plugins and widgets
 * [Yii-elfinder](https://github.com/MihailDev/yii2-elfinder)
+* [Embedded (Nested) Models Extension for Yii 2] (https://github.com/yii2tech/embedded) This extension provides support for embedded (nested) models usage in Yii2. In particular it allows working with sub-documents in MongoDB and ElasticSearch.
+
 
 
 ## Development Setup
@@ -92,6 +100,7 @@ Inspired by [hiraggude/awesome-laravel](https://github.com/chiraggude/awesome-la
 
 ## Books
 * [Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)
+* [The Definitive Guide to Yii 2.0] (https://github.com/yiisoft/yii2/blob/master/docs/guide/README.md) 
 
 ## Starter Projects
 
